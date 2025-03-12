@@ -1,2 +1,2 @@
-# module05_practice
-Practice exercises from Module 5
+# Hello!
+This repository has been created to do the exercises from Module 5
